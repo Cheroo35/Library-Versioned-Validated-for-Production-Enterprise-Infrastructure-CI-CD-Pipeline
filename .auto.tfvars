@@ -9,4 +9,4 @@ private_subnet_2_cidr = "10.0.12.0/24"
 private_subnet_3_cidr = "10.0.13.0/24"
 instance_type = "t2.medium"
 instance_ami = "ami-0889a44b331db0194"
-keyname = "DevOps1"    # key pair     or pem key ( ssh) 
+keyname = "DevOps"    # key pair     or pem key ( ssh) 
